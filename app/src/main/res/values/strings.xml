@@ -1,0 +1,536 @@
+<resources>
+    <string name="app_name">footballSCE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="jadwal">
+Selasa, 1 Januari 2019\n
+Arsenal v Fulham\n
+AFC Bournemouth v Watford\n
+Cardiff City v Spurs\n
+Chelsea v Southampton\n
+Everton v Leicester City\n
+Huddersfield Town v Burnley\n
+Man City v Liverpool\n
+Newcastle United v Man Utd\n
+West Ham v Brighton\n
+Wolves v Crystal Palace\n
+\n
+Sabtu, 12 Januari 2019\n
+Brighton v Liverpool\n
+Burnley v Fulham\n
+Cardiff City v Huddersfield Town\n
+Chelsea v Newcastle United\n
+Crystal Palace v Watford\n
+Everton v AFC Bournemouth\n
+Leicester City v Southampton\n
+Man City v Wolves\n
+Spurs v Man Utd\n
+West Ham v Arsenal\n
+\n
+Sabtu, 19 Januari 2019\n
+Arsenal v Chelsea\n
+AFC Bournemouth v West Ham\n
+Fulham v Spurs\n
+Huddersfield Town v Man City\n
+Liverpool v Crystal Palace\n
+Man Utd v Brighton\n
+Newcastle United v Cardiff City\n
+Southampton v Everton\n
+Watford v Burnley\n
+Wolves v Leicester City\n
+\n
+Selasa, 29 Januari 2019\n
+19:45 Arsenal v Cardiff City\n
+19:45 AFC Bournemouth v Chelsea\n
+19:45 Fulham v Brighton\n
+19:45 Huddersfield Town v Everton\n
+19:45 Wolves v West Ham\n
+20:00 Man Utd v Burnley\n
+\n
+Rabu, 30 Januari 2019\n
+19:45 Newcastle United v Man City\n
+19:45 Southampton v Crystal Palace\n
+20:00 Liverpool v Leicester City\n
+20:00 Spurs v Watford\n
+        </string>
+    <string name="jadwal2">
+26.10. 21:00
+Leganes
+-
+Mallorca \n
+26.10. 23:30
+Valladolid
+-
+Eibar \n
+27.10. 02:00
+Atl. Madrid
+-
+Ath Bilbao \n
+27.10. 18:00
+Celta Vigo
+-
+Real Sociedad \n
+27.10. 20:00
+Granada CF
+-
+Betis \n
+27.10. 22:00
+Levante
+-
+Espanyol \n
+28.10. 00:30
+Sevilla
+-
+Getafe \n
+28.10. 03:00
+Osasuna
+-
+Valencia \n
+         \n
+Babak 11 \n
+30.10. 01:00
+Alaves
+-
+Atl. Madrid \n
+30.10. 03:15
+Barcelona
+-
+Valladolid \n
+31.10. 01:00
+Real Sociedad
+-
+Levante \n
+31.10. 01:00
+Valencia
+-
+Sevilla \n
+31.10. 02:00
+Ath Bilbao
+-
+Espanyol \n
+31.10. 03:00
+Betis
+-
+Celta Vigo \n
+31.10. 03:15
+Real Madrid
+-
+Leganes \n
+01.11. 01:00
+Eibar
+-
+Villarreal \n
+01.11. 01:00
+Mallorca
+-
+Osasuna \n
+01.11. 03:15
+Getafe
+-
+Granada CF \n
+         \n
+Babak 12 \n
+02.11. 19:00
+Espanyol
+-
+Valencia \n
+02.11. 22:00
+Levante
+-
+Barcelona \n
+03.11. 00:30
+Sevilla
+-
+Atl. Madrid \n
+03.11. 03:00
+Real Madrid
+-
+Betis \n
+03.11. 18:00
+Valladolid
+-
+Mallorca \n
+03.11. 20:00
+Villarreal
+-
+Ath Bilbao \n
+03.11. 22:00
+Osasuna
+-
+Alaves \n
+04.11. 00:30
+Celta Vigo
+-
+Getafe \n
+04.11. 00:30
+Leganes
+-
+Eibar \n
+04.11. 03:00
+Granada CF
+-
+Real Sociedad \n
+        Babak 13\n
+11.11. 02:00
+Alaves
+-
+Valladolid\n
+11.11. 02:00
+Ath Bilbao
+-
+Levante\n
+11.11. 02:00
+Atl. Madrid
+-
+Espanyol\n
+11.11. 02:00
+Barcelona
+-
+Celta Vigo\n
+11.11. 02:00
+Betis
+-
+Sevilla\n
+11.11. 02:00
+Eibar
+-
+Real Madrid\n
+11.11. 02:00
+Getafe
+-
+Osasuna\n
+11.11. 02:00
+Mallorca
+-
+Villarreal\n
+11.11. 02:00
+Real Sociedad
+-
+Leganes\n
+11.11. 02:00
+Valencia
+-
+Granada CF\n
+    </string>
+    <string name="jadwal3">
+        Babak 8 \n
+19.10. 20:00
+Lazio
+-
+Atalanta \n
+19.10. 23:00
+Napoli
+-
+Verona \n
+20.10. 01:45
+Juventus
+-
+Bologna \n
+20.10. 17:30
+Sassuolo
+-
+Inter \n
+20.10. 20:00
+Cagliari
+-
+Spal \n
+20.10. 20:00
+Sampdoria
+-
+AS Roma \n
+20.10. 20:00
+Udinese
+-
+Torino \n
+20.10. 23:00
+Parma
+-
+Genoa \n
+21.10. 01:45
+AC Milan
+-
+Lecce \n
+22.10. 01:45
+Brescia
+-
+Fiorentina \n
+Babak 9 \n
+26.10. 01:45
+Verona
+-
+Sassuolo \n
+26.10. 20:00
+Lecce
+-
+Juventus \n
+26.10. 23:00
+Inter
+-
+Parma \n
+27.10. 01:45
+Genoa
+-
+Brescia \n
+27.10. 18:30
+Bologna
+-
+Sampdoria \n
+27.10. 21:00
+Atalanta
+-
+Udinese \n
+27.10. 21:00
+Spal
+-
+Napoli \n
+27.10. 21:00
+Torino
+-
+Cagliari \n
+28.10. 00:00
+AS Roma
+-
+AC Milan \n
+28.10. 02:45
+Fiorentina
+-
+Lazio \n
+Babak 10 \n
+30.10. 01:00
+Parma
+-
+Verona \n
+30.10. 03:00
+Brescia
+-
+Inter \n
+31.10. 01:00
+Napoli
+-
+Atalanta \n
+31.10. 03:00
+Cagliari
+-
+Bologna \n
+31.10. 03:00
+Juventus
+-
+Genoa \n
+31.10. 03:00
+Lazio
+-
+Torino \n
+31.10. 03:00
+Sampdoria
+-
+Lecce \n
+31.10. 03:00
+Sassuolo
+-
+Fiorentina \n
+31.10. 03:00
+Udinese
+-
+AS Roma \n
+01.11. 03:00
+AC Milan
+-
+Spal \n
+Babak 11 \n
+02.11. 21:00
+AS Roma
+-
+Napoli \n
+03.11. 00:00
+Bologna
+-
+Inter \n
+03.11. 02:45
+Torino
+-
+Juventus \n
+03.11. 18:30
+Atalanta
+-
+Cagliari \n
+03.11. 21:00
+Genoa
+-
+Udinese \n
+03.11. 21:00
+Lecce
+-
+Sassuolo \n
+03.11. 21:00
+Verona
+-
+Brescia \n
+04.11. 00:00
+Fiorentina
+-
+Parma \n
+04.11. 02:45
+AC Milan
+-
+Lazio \n
+05.11. 02:45
+Spal
+-
+Sampdoria \n
+
+    </string>
+    <string name="jadwal4">
+
+        Babak 23 \n
+18.10. 15:30
+Persela Lamongan
+-
+PSIS Semarang \n
+18.10. 15:30
+PSS Sleman
+-
+Kalteng Putra \n
+18.10. 18:30
+PS Barito Putera
+-
+Badak Lampung \n
+18.10. 18:30
+Pusamania Borneo
+-
+Bali United \n
+19.10. 15:30
+Persib Bandung
+-
+Persebaya \n
+19.10. 18:30
+TIRA Persikabo
+-
+Bhayangkara FC \n
+20.10. 15:30
+Semen Padang
+-
+Madura United \n
+20.10. 18:30
+Persipura Jayapura
+-
+Arema FC \n
+20.10. 18:30
+PSM Makassar
+-
+Persija Jakarta \n
+Babak 24 \n
+22.10. 18:30
+Bali United
+-
+Badak Lampung \n
+22.10. 18:30
+PS Barito Putera
+-
+PSIS Semarang \n
+22.10. 18:30
+Pusamania Borneo
+-
+Kalteng Putra \n
+23.10. 15:30
+Persela Lamongan
+-
+Persebaya \n
+23.10. 18:30
+Bhayangkara FC
+-
+Persib Bandung \n
+24.10. 15:30
+PSM Makassar
+-
+Madura United \n
+24.10. 15:30
+Semen Padang
+-
+Persipura Jayapura \n
+24.10. 18:30
+PSS Sleman
+-
+Persija Jakarta \n
+24.10. 18:30
+TIRA Persikabo
+-
+Arema FC \n
+Babak 25 \n
+26.10. 18:30
+PSIS Semarang
+-
+Pusamania Borneo \n
+27.10. 16:30
+Kalteng Putra
+-
+Persela Lamongan \n
+27.10. 18:30
+Bali United
+-
+PS Barito Putera \n
+28.10. 15:30
+Badak Lampung
+-
+Persipura Jayapura \n
+28.10. 15:30
+Persib Bandung
+-
+Persija Jakarta \n
+28.10. 18:30
+Arema FC
+-
+Semen Padang \n
+29.10. 15:30
+Bhayangkara FC
+-
+PSM Makassar \n
+29.10. 18:30
+Persebaya
+-
+PSS Sleman \n
+30.10. 18:30
+Madura United
+-
+TIRA Persikabo \n
+Babak 26 \n
+31.10. 18:30
+Bali United
+-
+Persela Lamongan \n
+31.10. 18:30
+PS Barito Putera
+-
+Pusamania Borneo \n
+01.11. 15:30
+Badak Lampung
+-
+Arema FC \n
+01.11. 18:30
+Kalteng Putra
+-
+Persib Bandung \n
+02.11. 15:30
+PSIS Semarang
+-
+PSS Sleman \n
+02.11. 18:30
+Bhayangkara FC
+-
+Semen Padang \n
+02.11. 18:30
+Persebaya
+-
+PSM Makassar \n
+03.11. 15:30
+Persija Jakarta
+-
+TIRA Persikabo \n
+03.11. 18:30
+Madura United
+-
+Persipura Jayapura \n
+    </string>
+
+
+</resources>
