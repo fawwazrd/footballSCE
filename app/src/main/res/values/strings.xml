@@ -532,5 +532,367 @@ Madura United
 Persipura Jayapura \n
     </string>
 
+    <string name="jadwal5">
+
+Matchday ketiga - 22 Oktober 2019 \n
+Club Brugge vs PSG \n
+Galatasaray vs Real Madrid \n
+Tottenham vs Crvena Zvezda \n
+Olympiakos vs Bayern Munchen \n
+Shakhtar Donetsk vs Dinamo Zagreb \n
+Manchester City vs Atalanta \n
+Atletico Madrid vs Bayer Leverkusen \n
+Juventus vs Lokomotiv Moscow \n
+ \n
+Matchday keempat - 6 November 2019 \n
+PSG vs Club Brugge \n
+Real Madrid vs Galatasaray \n
+Bayern Munchen vs Olympiakos \n
+Crvena Zvezda vs Tottenham \n
+Dinamo Zagrebvs Shakhtar Donetsk \n
+Atalanta vs Manchester City \n
+Lokomotiv Moscow vs Juventus \n
+Bayer Leverkusen vs Atletico Madrid \n
+ \n
+Matchday kelima - 26 November 2019 \n
+Galatasaray vs Club Brugge \n
+Real Madrid vs PSG \n
+Tottenham vs Olympiakos \n
+Crvena Zvezda vs Bayern Munchen \n
+Manchester City vs Shakhtar Donetsk \n
+Atalanta vs Dinamo Zagreb \n
+Lokomotiv Moscow vs Bayer Leverkusen \n
+Juventus vs Atletico Madrid \n
+ \n
+Matchday keenam - 11 Desember 2019 \n
+PSG vs Galatasaray \n
+Club Brugge vs Real Madrid \n
+Bayern Munchen vs Tottenham \n
+Olympiakos vs Crvena Zvezda \n
+Shakhtar Donetsk vs Atalanta \n
+Dinamo Zagreb vs Manchester City \n
+Atletico Madrid vs Lokomotiv Moscow \n
+Bayer Leverkusen vs Juventus \n
+    </string>
+
+    <string name="jadwal6">
+
+        Babak 3 \n
+24.10. 23:55
+AS Roma
+-
+B. Monchengladbach \n
+24.10. 23:55
+AZ Alkmaar
+-
+FC Astana \n
+24.10. 23:55
+Basaksehir
+-
+Wolfsberger AC \n
+24.10. 23:55
+Besiktas
+-
+Braga \n
+24.10. 23:55
+CSKA Moskow
+-
+Ferencvaros \n
+24.10. 23:55
+FC Porto
+-
+Rangers \n
+24.10. 23:55
+Gent
+-
+Wolfsburg \n
+24.10. 23:55
+Ludogorets
+-
+Espanyol \n
+24.10. 23:55
+Partizan
+-
+Manchester United \n
+24.10. 23:55
+Qarabag
+-
+APOEL \n
+24.10. 23:55
+Slovan Bratislava
+-
+Wolves \n
+24.10. 23:55
+St Etienne
+-
+Oleksandriya \n
+24.10. 23:55
+Young Boys
+-
+Feyenoord \n
+25.10. 02:00
+Arsenal
+-
+Guimaraes \n
+25.10. 02:00
+Celtic
+-
+Lazio \n
+25.10. 02:00
+Dyn. Kiev
+-
+FC Copenhagen \n
+25.10. 02:00
+Eintracht Frankfurt
+-
+St. Liege \n
+25.10. 02:00
+Getafe
+-
+Basel \n
+25.10. 02:00
+Malmo FF
+-
+Lugano \n
+25.10. 02:00
+PSV
+-
+LASK Linz \n
+25.10. 02:00
+Rennes
+-
+CFR Cluj \n
+25.10. 02:00
+Sevilla
+-
+Dudelange \n
+25.10. 02:00
+Sporting
+-
+Rosenborg \n
+25.10. 02:00
+Trabzonspor
+-
+Krasnodar \n
+         \n
+Babak 4 \n
+06.11. 22:50
+Guimaraes
+-
+Arsenal \n
+07.11. 22:50
+FC Astana
+-
+AZ Alkmaar \n
+08.11. 00:55
+APOEL
+-
+Qarabag \n
+08.11. 00:55
+Basel
+-
+Getafe \n
+08.11. 00:55
+CFR Cluj
+-
+Rennes \n
+08.11. 00:55
+Dudelange
+-
+Sevilla \n
+08.11. 00:55
+FC Copenhagen
+-
+Dyn. Kiev \n
+08.11. 00:55
+Krasnodar
+-
+Trabzonspor \n
+08.11. 00:55
+LASK Linz
+-
+PSV \n
+08.11. 00:55
+Lazio
+-
+Celtic \n
+08.11. 00:55
+Lugano
+-
+Malmo FF \n
+08.11. 00:55
+Rosenborg
+-
+Sporting \n
+08.11. 00:55
+St. Liege
+-
+Eintracht Frankfurt \n
+08.11. 03:00
+B. Monchengladbach
+-
+AS Roma \n
+08.11. 03:00
+Braga
+-
+Besiktas \n
+08.11. 03:00
+Espanyol
+-
+Ludogorets \n
+08.11. 03:00
+Ferencvaros
+-
+CSKA Moskow \n
+08.11. 03:00
+Feyenoord
+-
+Young Boys \n
+08.11. 03:00
+Manchester United
+-
+Partizan \n
+08.11. 03:00
+Oleksandriya
+-
+St Etienne \n
+08.11. 03:00
+Rangers
+-
+FC Porto \n
+08.11. 03:00
+Wolfsberger AC
+-
+Basaksehir \n
+08.11. 03:00
+Wolfsburg
+-
+Gent \n
+08.11. 03:00
+Wolves
+-
+Slovan Bratislava \n
+        \n
+Babak 5\n
+28.11. 22:50
+FC Astana
+-
+Manchester United \n
+28.11. 22:50
+Krasnodar
+-
+Basel \n
+28.11. 22:50
+Trabzonspor
+-
+Getafe \n
+29.11. 00:55
+AZ Alkmaar
+-
+Partizan \n
+29.11. 00:55
+Basaksehir
+-
+AS Roma \n
+29.11. 00:55
+Besiktas
+-
+Slovan Bratislava \n
+29.11. 00:55
+Braga
+-
+Wolves \n
+29.11. 00:55
+CSKA Moskow
+-
+Ludogorets \n
+29.11. 00:55
+Ferencvaros
+-
+Espanyol \n
+29.11. 00:55
+Feyenoord
+-
+Rangers \n
+29.11. 00:55
+Oleksandriya
+-
+Wolfsburg \n
+29.11. 00:55
+St Etienne
+-
+Gent \n
+29.11. 00:55
+Wolfsberger AC
+-
+B. Monchengladbach \n
+29.11. 00:55
+Young Boys
+-
+FC Porto \n
+29.11. 03:00
+Arsenal
+-
+Eintracht Frankfurt \n
+29.11. 03:00
+Celtic
+-
+Rennes \n
+29.11. 03:00
+Dudelange
+-
+APOEL \n
+29.11. 03:00
+Guimaraes
+-
+St. Liege \n
+29.11. 03:00
+Lazio
+-
+CFR Cluj \n
+29.11. 03:00
+Lugano
+-
+FC Copenhagen \n
+29.11. 03:00
+Malmo FF
+-
+Dyn. Kiev \n
+29.11. 03:00
+Rosenborg
+-
+LASK Linz \n
+29.11. 03:00
+Sevilla
+-
+Qarabag \n
+29.11. 03:00
+Sporting
+-
+PSV \n
+    </string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="polinema_mobile">POLINEMA MOBILE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
 
 </resources>

@@ -3,8 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/mad"
-    tools:context=".fragments.EplFragment">
+    android:background="@drawable/cham"
+    tools:context=".fragments.ChampionsFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <ScrollView
@@ -18,12 +18,10 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:textStyle="bold"
                 android:textColor="@color/white"
-                android:text="@string/jadwal2" />
+                android:textStyle="bold"
+                android:text="@string/jadwal5" />
 
         </LinearLayout>
     </ScrollView>
-
-
 </FrameLayout>
